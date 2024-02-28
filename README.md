@@ -23,7 +23,7 @@ print(y_pred,"\n")
 plt.scatter(x,y)
 plt.plot(x,y_pred,color="green")
 plt.show() 
-*/```
+*/
 
 
 ![ml png](https://github.com/Ajaydon420/Find-the-best-fit-line-using-Least-Squares-Method/assets/161410969/046fafe9-f6c4-46ef-a460-ee711599f9ff)
