@@ -1,4 +1,4 @@
-```/*
+```
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: Ajay K
 RegisterNumber: 212222080005
